@@ -1,0 +1,6 @@
+{
+  "name": "Trader Mix — Official Luxury Trading Community & Academy",
+  "description": "Official Trader Mix luxury trading community by Shaheen. Featuring the $150 VIP Masterclass, market breakdowns, and official channels across Telegram, YouTube, Facebook, and TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
